@@ -1,0 +1,7 @@
+pandas>=1.0.0
+openpyxl>=3.0.10
+reportlab>=3.6.12
+Pillow>=9.5.0
+pyinstaller>=5.9.0
+setuptools>=65.0.0
+wheel>=0.37.0
